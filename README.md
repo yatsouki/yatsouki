@@ -8,9 +8,6 @@ I'm C# Unity Developper.<br>I start to use C# for 4 years on Unity.<br><br>I'm c
 ![](https://github-readme-stats.vercel.app/api?username=yatsouki&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yatsouki&theme=merko&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yatsouki&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yatsouki&icon=2&color=3)](https://visitcount.itsvg.in)
 
