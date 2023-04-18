@@ -1,5 +1,5 @@
 # About Me
-I'm C# Unity Developper.<br>I start to use C# for 4 years on Unity.<br><br>I'm currently learning C++, I have Experience in PHP/HTML/CSS/React JS.<br>
+I'm C# Unity Developper.<br>I use Unity for 4 years. <br> I'm currently learning C++<br>
 
 
 # Tech Stack
