@@ -1,5 +1,5 @@
 # About Me
-I'm C# Unity Developper.<br>I use Unity for 4 years. <br> I'm currently learning C++<br>
+
 
 
 # Tech Stack
